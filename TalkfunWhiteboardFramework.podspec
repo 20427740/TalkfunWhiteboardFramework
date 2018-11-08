@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name     = "TalkfunWhiteboardFramework"
-  s.version  = "1.2.2"
+  s.version  = "1.2.3"
   s.license  = "MIT"
   s.summary  = "A ChannelListd"
   s.homepage = "https://github.com/20427740/TalkfunWhiteboardFramework"
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "8.0"
   
    
-
+ s.dependency 'MJExtension', '~> 3.0.13'
   
   
   

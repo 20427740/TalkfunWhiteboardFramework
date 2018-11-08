@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name     = "TalkfunWhiteboardFramework"
-  s.version  = "1.2.1"
+  s.version  = "1.2.2"
   s.license  = "MIT"
   s.summary  = "A ChannelListd"
   s.homepage = "https://github.com/20427740/TalkfunWhiteboardFramework"
